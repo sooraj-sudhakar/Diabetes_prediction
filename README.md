@@ -15,7 +15,7 @@ pip install six==1.11.0
 pip install sklearn==0.0 `
 ```
 ## Dataset
-This work is used to predict the diabetes in a patient. The dataset used here is the Pima Indians diabetes database. The dataset consists of 768 entries having 9 features. The entires correspond to the test on each patient. 
+This work is used to predict the diabetes in a patient. The dataset used here is the *Pima Indians diabetes* database. The dataset consists of 768 entries having 9 features. The entires correspond to the test on each patient. 
 
 The 9 features are :
 - Pregnancies - Number of times pregnant
