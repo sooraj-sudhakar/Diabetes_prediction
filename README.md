@@ -28,5 +28,5 @@ The 9 features are :
 - Age - Age (years)
 - Outcome - Class variable (0 or 1) 268 of 768 are 1, the others are 0
 
-### Run
+### Working
 There is a main *training.py* file which contains the ANN defined using the keras. The input *Pima Indians diabetes* csv file is splitted into train & test. The trained model is saved as *model.h5*. This saved model will be then used for the single as well as the bulk prediction programs. 
