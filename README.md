@@ -28,6 +28,13 @@ The 9 features are :
 - Age - Age (years)
 - Outcome - Class variable (0 or 1) 268 of 768 are 1, the others are 0
 
+#### Sample
+
+| Pregnancies | GlucosePlasma |BloodPressure | SkinThickness | Insulin | BMI | DiabetesPedigreeFunction |Age|Outcome
+| ------ | ------ | ------ | ------ | ------ | ------ |------ |------ |------ |
+|6|	148|	72|	35|	0|	33.6|	0.627|	50|	1|
+|1|	85|	66|	29|	0|	26.6|	0.351|	31|	0|
+
 ### Working
 There is a main *training.py* file which contains the ANN defined using the keras. The input *Pima Indians diabetes* csv file is splitted into train & test. The trained model is saved as *model.h5*. This saved model will be then used for the single as well as the bulk prediction programs. 
 
