@@ -1,4 +1,4 @@
-# Diabetes_prediction
+# Diabetes prediction
 Diabetes prediction using neural network created using keras with tensorflow backend.
 
 ### Dependancy
