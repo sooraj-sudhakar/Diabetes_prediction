@@ -36,6 +36,6 @@ The 9 features are :
 |1|	85|	66|	29|	0|	26.6|	0.351|	31|	0|
 
 ### Working
-There is a main *training.py* file which contains the ANN defined using the keras. The input *Pima Indians diabetes* csv file is splitted into train & test. The trained model is saved as *model.h5*. This saved model will be then used for the single as well as the bulk prediction programs. 
+There is a main [training.py](https://github.com/sooraj-sudhakar/Diabetes_prediction/blob/master/Training.py) file which contains the ANN defined using the keras. The input [Prima Indians diabetes](https://github.com/sooraj-sudhakar/Diabetes_prediction/blob/master/prima-indians-diabetes.csv) csv file is splitted into train & test. The trained model is saved as *model.h5*. This saved model will be then used for the single as well as the bulk prediction programs. 
 
 ![Train vs validation loss](https://github.com/sooraj-sudhakar/Diabetes_prediction/blob/master/graph.png) ![Bulk prediction](https://github.com/sooraj-sudhakar/Diabetes_prediction/blob/master/Bulk_prediction_out.png)
